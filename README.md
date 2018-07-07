@@ -1,2 +1,3 @@
 # python感知机
 使用python实现感知机算法和Lris数据集下的算例
+使用了matplotlib进行了数据可视化，使用了numpy实现了感知机算法，使用了pandas读取数据与数据处理。
